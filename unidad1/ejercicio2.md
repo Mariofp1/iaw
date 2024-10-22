@@ -27,7 +27,7 @@ Código
 [Archivo Markdown](/Ejercicio%201/Ejercicio%201.md)
 
 ### Imagen
-![Imagen](/Ejercicio%201/imagenes%20ejercicio%201/1.png)
+![Imagen](img/11.png)
 
 ### Tabla
 
